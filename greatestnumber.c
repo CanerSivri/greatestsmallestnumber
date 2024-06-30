@@ -20,5 +20,6 @@ int main(){
     }
     printf("The greatest number is %d\n",max);
     printf("The smallest number is %d\n",min);
+    system("pause");
     return 0;
 }
